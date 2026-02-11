@@ -41,3 +41,4 @@ data/
 # Production
 /server/dist
 /client/dist
+package-lock.json
